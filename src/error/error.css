@@ -1,0 +1,20 @@
+#err-button{   
+    right: 223px;
+    height: 2;
+    position: absolute;
+    color: #3d3737 !important;
+    width: 156px;
+    border: 2px solid #3d3737;
+    text-align: center;
+    height: 38px;
+    line-height: 36px;
+    border-radius: 10px;
+    top: 402px;
+    font-family: sans-serif
+}
+
+#err-button:hover{
+    text-decoration: none !important;
+    color: black !important;
+    border: 2px solid black
+}
